@@ -9,7 +9,7 @@ O projeto serve como uma base prática e científica para a implementação de t
 - **Status do projeto:** Ativo e Open Source
 - **Visibilidade:** Público
 
-Este repositório constitui um ambiente colaborativo ideal para pesquisadores, engenheiros e desenvolvedores que atuam na interface entre Inteligência Artificial e Sistemas de Potência. O espaço é destinado ao compartilhamento de conhecimento, desenvolvimento de soluções inovadoras e avanço do estado da arte em aplicações inteligentes para os desafios das redes elétricas modernas.
+Este repositório constitui um ambiente colaborativo ideal para pesquisadores, engenheiros e desenvolvedores que atuam na interface entre inteligência artificial e sistemas de potência. O espaço é destinado ao compartilhamento de conhecimento, desenvolvimento de soluções inovadoras e avanço do estado da arte em aplicações inteligentes para os desafios das redes elétricas modernas.
 
 ### 🚀 Execute no Google Colab (Exemplo de Previsão de Séries Temporais)
 
