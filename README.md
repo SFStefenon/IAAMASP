@@ -21,7 +21,7 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 ## 👨‍🏫 Stefano Frizzo Stefenon, PhD  
 
-🎓 **Professor** 
+###🎓 **Professor** 
 
 💻 Departamento de Engenharia Informática 
 
@@ -30,8 +30,6 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 🏫 Instituto Politécnico de Lisboa (IPL)
 
 📧 **Email:** stefano.stefenon@isel.pt  
-
----
 
 ### 🔬 Academic Profiles
 <p align="left">
