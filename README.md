@@ -51,22 +51,22 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 ## 🔬 Academic Profiles
 
+xxxx
 <p align="center">
 <a href="https://orcid.org/0000-0002-3723-616X">
 <img src="https://cdn.simpleicons.org/orcid/A6CE39" height="42" style="margin:10px"/>
-</a>
 
+bbb
 <a href="https://scholar.google.com/citations?user=ToyM0y8AAAAJ">
 <img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="42" style="margin:10px"/>
-</a>
 
+bbb
 <a href="https://www.researchgate.net/profile/Stefano-Frizzo-Stefenon-2">
 <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="42" style="margin:10px"/>
-</a>
 
+ccc
 <a href="https://github.com/SFStefenon">
 <img src="https://cdn.simpleicons.org/github/181717" height="42" style="margin:10px"/>
-</a>
 </p>
 ---
 
