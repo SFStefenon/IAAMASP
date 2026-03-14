@@ -21,7 +21,7 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 ## 👨‍🏫 Stefano Frizzo Stefenon, PhD  
 
-###🎓 **Professor** 
+### 🎓 **Professor** 
 
 💻 Departamento de Engenharia Informática 
 
