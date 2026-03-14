@@ -41,16 +41,12 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
-<a href="https://scholar.google.com/citations?user=SEU_ID">
+<a href="https://scholar.google.com/citations?user=ToyM0y8AAAAJ&hl=pt-PT&oi=ao">
 <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
-<a href="https://www.researchgate.net/profile/SEU_ID">
+<a href="https://www.researchgate.net/profile/Stefano-Frizzo-Stefenon-2">
 <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SFStefenon">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
