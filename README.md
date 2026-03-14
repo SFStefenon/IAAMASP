@@ -49,27 +49,22 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 </p>
 
-## 🔬 Academic Profiles
 
-xxxx
-<p align="center">
+<p align="left">
+
 <a href="https://orcid.org/0000-0002-3723-616X">
-<img src="https://cdn.simpleicons.org/orcid/A6CE39" height="42" style="margin:10px"/>
+<img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
 
-bbb
-<a href="https://scholar.google.com/citations?user=ToyM0y8AAAAJ">
-<img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="42" style="margin:10px"/>
+<a href="https://scholar.google.com/citations?user=ToyM0y8AAAAJ&hl=pt-PT&oi=ao">
+<img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
 
-bbb
 <a href="https://www.researchgate.net/profile/Stefano-Frizzo-Stefenon-2">
-<img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="42" style="margin:10px"/>
+<img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
 
-ccc
-<a href="https://github.com/SFStefenon">
-<img src="https://cdn.simpleicons.org/github/181717" height="42" style="margin:10px"/>
 </p>
----
-
 ### 🤖 Research Areas
 
 Artificial Intelligence  
