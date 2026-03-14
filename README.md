@@ -57,6 +57,7 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 <a href="https://www.researchgate.net/profile/Stefano-Frizzo-Stefenon-2"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=SEU_SCOPUS_ID"><img src="https://img.shields.io/badge/Scopus-Profile-F36C21?style=for-the-badge&logo=elsevier&logoColor=white"/></a>
 <a href="https://www.webofscience.com/wos/author/record/SEU_WOS_ID"><img src="https://img.shields.io/badge/Web%20of%20Science-Profile-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/stefanostefenon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ### 🤖 Research Areas
