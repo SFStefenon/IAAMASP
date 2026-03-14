@@ -17,6 +17,8 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v2ZZsoHw0oeCsX0rLPXKprFNMJi5MDVX?usp=sharing)
 
+Para relatórios use LaTeX, como o exemplo para [IEEE Access](https://ieeeaccess.ieee.org/wp-content/uploads/2025/08/ACCESS_latex_template_20240429.zip).
+
 ---
 
 ## 👨‍🏫 Stefano Frizzo Stefenon, PhD  
