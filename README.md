@@ -11,12 +11,10 @@ O projeto serve como uma base prática e científica para a implementação de t
 
 Este repositório constitui um ambiente colaborativo ideal para pesquisadores, engenheiros e desenvolvedores que atuam na interface entre Inteligência Artificial e Sistemas de Potência. O espaço é destinado ao compartilhamento de conhecimento, desenvolvimento de soluções inovadoras e avanço do estado da arte em aplicações inteligentes para os desafios das redes elétricas modernas.
 
-Exemplo: https://colab.research.google.com/drive/1v2ZZsoHw0oeCsX0rLPXKprFNMJi5MDVX?usp=sharing
-
 ## 🚀 Execute no Google Colab
 
 Clique abaixo para abrir o notebook diretamente no Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_DO_NOTEBOOK)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v2ZZsoHw0oeCsX0rLPXKprFNMJi5MDVX?usp=sharing)
 
 Dr. Stefano Frizzo Stefenon
