@@ -18,3 +18,50 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v2ZZsoHw0oeCsX0rLPXKprFNMJi5MDVX?usp=sharing)
 
 Dr. Stefano Frizzo Stefenon
+
+
+## 👨‍🏫 Stefano Frizzo Stefenon, PhD  
+
+🎓 **Professor**  
+💻 Department of Computer Engineering  
+🏛️ Lisbon School of Engineering (ISEL)  
+🏫 Polytechnic University of Lisbon (IPL)  
+📍 Lisbon, Portugal  
+
+📧 **Email:** stefano.stefenon@isel.pt  
+
+---
+
+## 🔬 Academic Profiles
+
+<p align="left">
+
+<a href="https://orcid.org/SEU_ID">
+<img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=SEU_ID">
+<img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/SEU_ID">
+<img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SFStefenon">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🤖 Research Areas
+
+Artificial Intelligence  
+Machine Learning  
+Power Systems  
+Time Series Forecasting  
+Smart Grids  
+Deep Learning  
+Graph Neural Networks  
