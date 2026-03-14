@@ -17,17 +17,14 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v2ZZsoHw0oeCsX0rLPXKprFNMJi5MDVX?usp=sharing)
 
-Dr. Stefano Frizzo Stefenon
-
+---
 
 ## 👨‍🏫 Stefano Frizzo Stefenon, PhD  
 
 🎓 **Professor**  
-💻 Department of Computer Engineering  
-🏛️ Lisbon School of Engineering (ISEL)  
-🏫 Polytechnic University of Lisbon (IPL)  
-📍 Lisbon, Portugal  
-
+💻 Departamento de Engenharia Informática 
+🏛️ Instituto Superior de Engenharia de Lisboa (ISEL)
+🏫 Instituto Politécnico de Lisboa (IPL)
 📧 **Email:** stefano.stefenon@isel.pt  
 
 ---
@@ -56,7 +53,7 @@ Dr. Stefano Frizzo Stefenon
 
 ---
 
-## 🤖 Research Areas
+# 🤖 Research Areas
 
 Artificial Intelligence  
 Machine Learning  
