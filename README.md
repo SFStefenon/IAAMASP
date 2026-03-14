@@ -45,10 +45,4 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 ### 🤖 Research Areas
 
-Artificial Intelligence  
-Machine Learning  
-Power Systems  
-Time Series Forecasting  
-Smart Grids  
-Deep Learning  
-Graph Neural Networks  
+Artificial Intelligence, Deep Learning, Graph Neural Networks, Machine Learning, Power Systems, Smart Grids, Time Series Forecasting.
