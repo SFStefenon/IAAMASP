@@ -5,7 +5,6 @@ Este repositório é dedicado ao estudo, desenvolvimento e aplicação de técni
 O projeto serve como uma base prática e científica para a implementação de técnicas computacionais modernas no contexto de redes elétricas inteligentes, contribuindo para sistemas de energia mais eficientes, resilientes e confiáveis.
 
 **Detalhes do repositório:**
-- **Responsável:** [SFStefenon](https://github.com/SFStefenon) 
 - **Status do projeto:** Ativo e Open Source
 - **Visibilidade:** Público
 
