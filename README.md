@@ -52,29 +52,32 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 </p>
 
 ---
-
 ## 🔬 Academic Profiles
 
 <p align="center">
 
 <a href="https://orcid.org/0000-0002-3723-616X">
-<img src="https://img.shields.io/badge/ORCID-0000--0002--3723--616X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/orcid/A6CE39" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://scholar.google.com/citations?user=ToyM0y8AAAAJ&hl=pt-PT&oi=ao">
-<img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<a href="https://scholar.google.com/citations?user=ToyM0y8AAAAJ">
+<img src="https://cdn.simpleicons.org/googlescholar/4285F4" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.researchgate.net/profile/Stefano-Frizzo-Stefenon-2">
-<img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/SFStefenon">
-<img src="https://img.shields.io/badge/GitHub-SFStefenon-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/github/181717" height="40"/>
 </a>
 
 </p>
 
+---
 ---
 
 ### 🤖 Research Areas
