@@ -31,7 +31,7 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 📧 **Email:** stefano.stefenon@isel.pt  
 
-### 🔬 Academic Profiles
+## 🔬 Academic Profiles
 <p align="left">
 <a href="https://scholar.google.com/citations?user=ToyM0y8AAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57194147390"><img src="https://img.shields.io/badge/Scopus-F36C21?style=for-the-badge&logo=elsevier&logoColor=white"/></a>
