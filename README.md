@@ -21,10 +21,14 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 ## 👨‍🏫 Stefano Frizzo Stefenon, PhD  
 
-🎓 **Professor**  
+🎓 **Professor** 
+
 💻 Departamento de Engenharia Informática 
+
 🏛️ Instituto Superior de Engenharia de Lisboa (ISEL)
+
 🏫 Instituto Politécnico de Lisboa (IPL)
+
 📧 **Email:** stefano.stefenon@isel.pt  
 
 ---
@@ -33,7 +37,7 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 <p align="left">
 
-<a href="https://orcid.org/SEU_ID">
+<a href="https://orcid.org/0000-0002-3723-616X">
 <img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
