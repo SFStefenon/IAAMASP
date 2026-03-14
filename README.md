@@ -13,4 +13,10 @@ Este repositório constitui um ambiente colaborativo ideal para pesquisadores, e
 
 Exemplo: https://colab.research.google.com/drive/1v2ZZsoHw0oeCsX0rLPXKprFNMJi5MDVX?usp=sharing
 
+## 🚀 Execute no Google Colab
+
+Clique abaixo para abrir o notebook diretamente no Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_DO_NOTEBOOK)
+
 Dr. Stefano Frizzo Stefenon
