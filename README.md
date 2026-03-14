@@ -1,4 +1,4 @@
-## 🤖 IAAMSP – Inteligência Artificial e Aprendizado de Máquina Aplicados a Sistemas de Potência
+# 🤖 IAAMSP – Inteligência Artificial e Aprendizado de Máquina Aplicados a Sistemas de Potência
 
 Este repositório é dedicado ao estudo, desenvolvimento e aplicação de técnicas de Inteligência Artificial e Aprendizado de Máquina voltadas a problemas reais em sistemas elétricos de potência. O objetivo é disponibilizar métodos avançados que possam ser utilizados em tarefas como manutenção preditiva, detecção de falhas, previsão de carga, análise operacional e otimização de redes elétricas.
 
@@ -53,7 +53,7 @@ Clique abaixo para abrir o notebook diretamente no Google Colab:
 
 ---
 
-# 🤖 Research Areas
+### 🤖 Research Areas
 
 Artificial Intelligence  
 Machine Learning  
