@@ -30,8 +30,6 @@ Para relatórios use LaTeX em [Overleaf](https://www.overleaf.com/), como o exem
 
 🏫 Instituto Politécnico de Lisboa (IPL)
 
-📧 **Email:** stefano.stefenon@isel.pt  
-
 ---
 
 ### 🔬 Academic Profiles
