@@ -41,7 +41,3 @@ Para relatórios use LaTeX em [Overleaf](https://www.overleaf.com/), como o exem
 <a href="https://www.researchgate.net/profile/Stefano-Frizzo-Stefenon-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/stefanostefenon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-### 🤖 Research Areas
-
-Artificial Intelligence, Deep Learning, Graph Neural Networks, Machine Learning, Power Systems, Smart Grids, Time Series Forecasting.
